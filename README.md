@@ -1,2 +1,3 @@
 # time_series_analysis_covid
-time_series_analysis_covid
+
+See the PDF for details
